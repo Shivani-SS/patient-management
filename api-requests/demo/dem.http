@@ -1,0 +1,4 @@
+GET http://localhost:4004/api/demo/validate
+Authorization: Bearer uyhaskahissioaoo94dhf
+
+###
